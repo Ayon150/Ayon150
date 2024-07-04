@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Ayon150's GitHub | Stats](https://stats.quira.sh/Ayon150/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Ayon150)
 <a href="https://twitter.com/ayon_kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayon_kundu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://bd.linkedin.com/in/ayon-kundu-04820b26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bd.linkedin.com/in/ayon-kundu-04820b26b" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ayon.kundu.1238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayon.kundu.1238" height="30" width="40" /></a>
