@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayon150&show_icons=true&locale=en" alt="ayon150" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayon150&" alt="ayon150" /></p>
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![Ayon150's GitHub | Stats](https://stats.quira.sh/Ayon150/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Ayon150)
